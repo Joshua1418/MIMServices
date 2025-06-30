@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: MIM Services
+    branch: main
+    buildCommand: ""
+    staticPublishPath: /
+    pullRequestPreviewsEnabled: true
