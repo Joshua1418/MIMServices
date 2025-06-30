@@ -1,0 +1,98 @@
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("pergaulat.jpg"); background-position: 50% 50%}
+.u-section-1 .u-sheet-1 {min-height: 100vh}
+.u-section-1 .u-group-1 {width: 498px; min-height: 374px; margin: 173px 10px 0 auto}
+.u-section-1 .u-container-layout-1 {padding: 0 60px}
+.u-section-1 .u-text-1 {font-size: 3rem; margin: 0 1px 0 0}
+.u-section-1 .u-text-2 {animation-duration: 1000ms; margin: 20px 0 0}
+.u-section-1 .u-btn-1 {background-image: none; border-style: none; text-transform: uppercase; font-size: 0.875rem; animation-duration: 1000ms; margin: 20px auto 0 0}
+.u-section-1 .u-slider-1 {width: 660px; min-height: 521px; margin: -470px auto 60px 10px}
+.u-section-1 .u-carousel-indicators-1 {position: absolute; bottom: 10px}
+.u-section-1 .u-container-layout-2 {padding: 30px}
+.u-section-1 .u-image-1 {width: 503px; height: 395px; margin: 0 auto}
+.u-section-1 .u-container-layout-3 {padding: 30px}
+.u-section-1 .u-image-2 {width: 503px; height: 395px; margin: 0 auto}
+.u-section-1 .u-container-layout-4 {padding: 30px}
+.u-section-1 .u-image-3 {width: 503px; height: 395px; margin: 0 auto}
+.u-section-1 .u-container-layout-5 {padding: 30px}
+.u-section-1 .u-image-4 {height: 395px; margin: 0}
+.u-section-1 .u-container-layout-6 {padding: 30px}
+.u-section-1 .u-image-5 {height: 395px; margin: 0}
+.u-section-1 .u-container-layout-7 {padding: 30px}
+.u-section-1 .u-image-6 {height: 395px; margin: 0}
+.u-section-1 .u-container-layout-8 {padding: 30px}
+.u-section-1 .u-image-7 {height: 395px; margin: 0}
+.u-section-1 .u-container-layout-9 {padding: 30px}
+.u-section-1 .u-image-8 {height: 395px; margin: 0}
+.u-section-1 .u-container-layout-10 {padding: 30px}
+.u-section-1 .u-image-9 {height: 395px; margin: 0}
+.u-section-1 .u-container-layout-11 {padding: 30px}
+.u-section-1 .u-image-10 {height: 395px; margin: 0}
+.u-section-1 .u-container-layout-12 {padding: 30px}
+.u-section-1 .u-image-11 {height: 395px; margin: 0}
+.u-section-1 .u-container-layout-13 {padding: 30px}
+.u-section-1 .u-image-12 {height: 395px; margin: 0}
+.u-section-1 .u-container-layout-14 {padding: 30px}
+.u-section-1 .u-image-13 {height: 395px; margin: 0}
+.u-section-1 .u-container-layout-15 {padding: 30px}
+.u-section-1 .u-image-14 {width: 503px; height: 395px; margin: 0 auto}
+.u-section-1 .u-carousel-control-1 {width: 75px; height: 75px}
+.u-section-1 .u-carousel-control-2 {width: 75px; height: 75px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-group-1 {width: 430px; min-height: 405px; margin-top: 127px; margin-right: 27px}
+.u-section-1 .u-container-layout-1 {padding-top: 30px}
+.u-section-1 .u-text-1 {margin-right: 0}
+.u-section-1 .u-slider-1 {width: 491px; min-height: 455px; height: auto; margin-top: -430px; margin-bottom: 0}
+.u-section-1 .u-image-4 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-5 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-6 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-7 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-8 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-9 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-10 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-11 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-12 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-13 {margin-right: initial; margin-left: initial} }
+
+@media (max-width: 991px){ .u-section-1 .u-group-1 {width: 290px; min-height: 414px; margin-top: 110px; margin-right: 11px}
+.u-section-1 .u-container-layout-1 {padding: 20px 30px 1px}
+.u-section-1 .u-slider-1 {width: 402px; margin-top: -400px; margin-bottom: 60px; margin-left: 2px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 870px}
+.u-section-1 .u-group-1 {min-height: 325px; width: 500px; margin-top: 490px; margin-right: auto}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-slider-1 {width: 520px; margin-top: -718px; margin-left: 10px}
+.u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-3 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-4 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-5 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-6 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-7 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-8 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-9 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-10 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-11 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-12 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-13 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-14 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-15 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 100vh}
+.u-section-1 .u-group-1 {min-height: 303px; margin-top: 361px; margin-right: initial; margin-left: initial; width: auto}
+.u-section-1 .u-container-layout-1 {padding-top: 9px}
+.u-section-1 .u-text-1 {font-size: 1.5rem}
+.u-section-1 .u-btn-1 {margin-left: auto}
+.u-section-1 .u-slider-1 {min-height: 316px; margin-top: -559px; margin-right: initial; margin-left: initial; width: auto}
+.u-section-1 .u-image-1 {width: 320px; height: 251px}
+.u-section-1 .u-image-2 {width: 320px; height: 251px}
+.u-section-1 .u-image-3 {width: 320px; height: 251px}
+.u-section-1 .u-image-4 {height: 251px; margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-5 {height: 251px; margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-6 {height: 251px; margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-7 {height: 251px; margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-8 {height: 251px; margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-9 {height: 251px; margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-10 {height: 251px; margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-11 {height: 251px; margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-12 {height: 251px; margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-13 {height: 251px; margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-14 {width: 320px; height: 251px} }
